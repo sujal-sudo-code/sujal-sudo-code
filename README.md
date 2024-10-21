@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Just completed a website that is own art portfolio where I share pictures that I click<br>🌱 I’m currently learning Tensorflow, machine learning, and MongoDB<br>💬 Ask me about python, HTML, CSS, C++, SQL
+🔭 Just completed a website that is my own art portfolio where I share pictures that I click<br>🌱 I’m currently learning Tensorflow, machine learning, and MongoDB<br>💬 Ask me about python, HTML, CSS, C++, SQL
 
 
 ## 🌐 Socials:
