@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 Just completed a website that is my own art portfolio where I share pictures that I click<br>💬 Ask me about python, HTML, CSS, C++, SQL
+CS undergrad @ Chandigarh University passionate about Python, ML & web development.
+From collaborative filtering models to React apps — I build things that work.
+Currently exploring LLMs, Hugging Face & deep learning.
+Open to internships | Check out my work 👇
 
 
 ## 🌐 Socials:
