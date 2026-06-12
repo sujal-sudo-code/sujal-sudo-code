@@ -1,367 +1,232 @@
-<div align="center">
+# 💫 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Sujal%20Rathore&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+Software Engineering student at Chandigarh University passionate about building scalable applications, backend systems, and AI-powered products.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;AI%2FML+Engineer;Full+Stack+Developer;Backend+Engineering+Enthusiast;Building+Scalable+Products+and+Intelligent+Systems" />
+I work across Full Stack Development, Backend Engineering, and Artificial Intelligence using Java, Python, Spring Boot, React, MySQL, MongoDB, and modern LLM APIs.
 
-<br/>
+Currently focused on:
+- Building secure enterprise-grade web applications
+- Developing scalable REST APIs with Spring Boot
+- Integrating Generative AI into real-world products
+- Exploring Machine Learning, Deep Learning, Hugging Face, and LLM ecosystems
 
-![University](https://img.shields.io/badge/Chandigarh_University-Computer_Science-7C3AED?style=for-the-badge)
-![Student](https://img.shields.io/badge/Engineering_Student-2023--Present-4F46E5?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI%2FML-Enthusiast-A855F7?style=for-the-badge)
+I enjoy solving real-world problems through clean architecture, efficient code, and product-driven engineering.
 
-<br/>
-
-![Location](https://img.shields.io/badge/Location-India-7C3AED?style=for-the-badge)
-
-<a href="https://github.com/sujal-sudo-code">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/sujal-rathore">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:work.sujalrathore@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://github.com/sujal-sudo-code">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-</a>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=sujal-sudo-code&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/sujal-sudo-code?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/sujal-sudo-code?affiliations=OWNER&style=for-the-badge&color=A855F7)
-
-</div>
+🚀 Open to Software Engineering, Backend Development, Full Stack Development, and AI/ML Internship Opportunities.
 
 ---
 
-# About Me
+## 🌐 Connect With Me
 
-Software Engineering student focused on building scalable applications, backend systems, AI-powered products, and modern web platforms. My work spans full-stack development, API engineering, authentication systems, cloud-native architecture, and intelligent applications.
-
-I enjoy transforming ideas into production-ready software using strong engineering principles, clean architecture, and data-driven decision-making. My interests extend across distributed systems, AI/ML integration, backend engineering, developer tooling, and enterprise software development.
-
-### Open To
-
-- Software Engineering Internships
-- Backend Engineering Roles
-- Full Stack Development Opportunities
-- AI/ML Engineering Projects
-- Open Source Contributions
-- Product Engineering Teams
-- Startup Collaborations
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-rathore-1301742b5/)
+[![GitHub](https://img.shields.io/badge/GitHub-sujal--sudo--code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujal-sudo-code)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sujal__4950)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.sujalrathore@gmail.com)
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
 
-## Languages
+### Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Frontend
+### Frontend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwind" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Backend & Databases
+### Backend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb" />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-## Cloud, DevOps & Tooling
+### Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+### Tools & DevOps
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|-------------|-----------|
-| Generative AI | Advanced | Gemini API integration, conversational AI applications |
-| Machine Learning | Intermediate | Model experimentation, supervised learning workflows |
-| Prompt Engineering | Advanced | AI workflow optimization and response engineering |
-| NLP Applications | Intermediate | Text processing and conversational interfaces |
-| AI Product Development | Advanced | AI-powered web applications and integrations |
-| API-based AI Systems | Advanced | Third-party LLM integration and deployment |
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# Featured Projects
+# 🤖 AI / ML Interests
 
-<details>
-<summary><b>🎓 Role-Based College Management Portal</b></summary>
-
-### Enterprise Academic Management Platform
-
-| Metric | Details |
-|---------|---------|
-| Stack | React, Spring Boot, JWT, JPA, Docker, MySQL |
-| Scale | Multi-role Academic System |
-| Performance | Optimized Database Queries |
-| Security | JWT Authentication & Authorization |
-| Impact | Streamlined Academic Workflows |
-| Repository | https://github.com/sujal-sudo-code |
-
-Developed a role-based college management platform supporting Admin, Faculty, and Student workflows. Designed secure REST APIs using Spring Boot and JPA while implementing JWT authentication for enterprise-grade access control. Containerized services using Docker and maintained relational integrity through MySQL.
-
-</details>
-
-<details>
-<summary><b>⚡ Digital Services Platform</b></summary>
-
-### Full Stack Service Management System
-
-| Metric | Details |
-|---------|---------|
-| Stack | React, Express.js, MongoDB |
-| Scale | Multi-user Service Request Platform |
-| Performance | Efficient Request Processing |
-| Security | Role-aware Request Management |
-| Impact | Improved Service Tracking Efficiency |
-| Repository | https://github.com/sujal-sudo-code |
-
-Built a service management platform enabling users to submit, track, and manage service requests. Designed backend APIs, structured workflows, and scalable MongoDB data models for efficient request lifecycle management.
-
-</details>
-
-<details>
-<summary><b>🤖 Gemini AI Clone</b></summary>
-
-### AI-Powered Conversational Platform
-
-| Metric | Details |
-|---------|---------|
-| Stack | React, JavaScript, Gemini API |
-| Scale | Real-Time AI Application |
-| Performance | Optimized State Management |
-| Security | Secure API Communication |
-| Impact | Enhanced User Productivity |
-| Repository | https://github.com/sujal-sudo-code |
-
-Integrated Google's Gemini API to build an intelligent conversational assistant capable of generating real-time responses. Implemented asynchronous communication patterns and responsive UI architecture for seamless interaction.
-
-</details>
-
-<details>
-<summary><b>🌐 Portfolio Generator</b></summary>
-
-### Automated Portfolio Builder
-
-| Metric | Details |
-|---------|---------|
-| Stack | HTML, CSS, JavaScript |
-| Scale | Dynamic Content Generation |
-| Performance | Lightweight Rendering |
-| Security | Client-Side Architecture |
-| Impact | Rapid Portfolio Creation |
-| Repository | https://github.com/sujal-sudo-code |
-
-Developed a portfolio generation platform that transforms structured user input into professional developer portfolios. Implemented dynamic rendering and customizable templates for efficient personalization.
-
-</details>
+- Generative AI Applications
+- Large Language Models (LLMs)
+- Hugging Face Ecosystem
+- Deep Learning Fundamentals
+- Machine Learning Projects
+- AI Product Development
+- Prompt Engineering
+- AI API Integrations
 
 ---
 
-# Experience
+# 🚀 Featured Projects
 
-## Software Development Trainee — Chandigarh University
+## 🎓 Role-Based College Management Portal
 
-**Duration:** Summer Training Program
+**Tech Stack:** React • Spring Boot • JWT • JPA • Docker • MySQL
 
-Participated in an intensive software engineering training program focused on modern development practices, application architecture, and problem-solving methodologies.
-
-### Scope of Work
-
-- Developed software development fundamentals
-- Practiced object-oriented programming principles
-- Built application modules using modern frameworks
-- Strengthened database and API development concepts
-- Collaborated in project-oriented engineering environments
-
-**Skills**
-
-`Java` `Python` `Spring Boot` `REST APIs` `Database Design` `Git` `Software Engineering`
+- Built a role-based academic management system supporting Admin, Faculty, and Student workflows.
+- Designed secure RESTful APIs using Spring Boot and JPA.
+- Implemented JWT Authentication and Authorization.
+- Dockerized backend deployment.
+- Optimized relational database operations using MySQL.
 
 ---
 
-# Achievements
+## ⚡ Digital Services Platform
 
-<div align="center">
+**Tech Stack:** React • Express.js • MongoDB
 
-| Recognition | Details |
-|------------|----------|
-| 🏆 Project Expo 2025 Finalist | Selected among top university projects |
-| 🥇 Design Mania Winner | 1st Place at Tech Invent Competition |
-| 🎓 Summer Training Completion | Successfully completed software engineering training |
-| 💡 Product Development Projects | Built multiple production-ready applications |
-
-</div>
+- Developed a full-stack service request management platform.
+- Designed APIs for request creation, tracking, and management.
+- Implemented structured workflow handling.
+- Utilized MongoDB for efficient data storage and retrieval.
 
 ---
 
-# Certifications
+## 🤖 Gemini AI Clone
 
-## AWS
+**Tech Stack:** React • JavaScript • Gemini API
 
-![AWS Cloud](https://img.shields.io/badge/AWS-Cloud_Fundamentals-FF9900?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Java-FF0000?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Engineering-4F46E5?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+- Developed an AI-powered conversational web application.
+- Integrated Gemini API for real-time response generation.
+- Managed asynchronous API communication.
+- Designed responsive and interactive user interfaces.
 
 ---
 
-# Coding Profiles
+## 🌐 Portfolio Generator
 
-<div align="center">
+**Tech Stack:** HTML • CSS • JavaScript
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Competitive_Coding-00EA64?style=for-the-badge&logo=hackerrank" />
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Programming-5B4638?style=for-the-badge&logo=codechef" />
-</a>
-
-</div>
+- Created a dynamic portfolio generation platform.
+- Automated portfolio creation from structured inputs.
+- Enabled easy customization and content management.
+- Developed responsive UI templates.
 
 ---
 
-# GitHub Analytics
+# 🏆 Achievements
 
-<div align="center">
+🥇 **1st Place – Design Mania Competition**  
+Tech Invent, Chandigarh University
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujal-sudo-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+🏅 **Finalist – Project Expo 2025**  
+Chandigarh University
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-sudo-code&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-sudo-code&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+🎓 **Completed In-House Summer Training Program**  
+Chandigarh University
 
 ---
 
-# GitHub Trophies
+# 📚 Education
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sujal-sudo-code&theme=tokyonight&no-frame=true&row=2&column=4" />
-
-</div>
+**Bachelor of Engineering (Computer Science Engineering)**  
+Chandigarh University  
+2023 – Present
 
 ---
 
-# Contribution Activity
+# 💻 Coding Profiles
 
-<div align="center">
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-sudo-code&bg_color=0D1117&color=A855F7&line=7C3AED&point=A855F7&hide_border=true" />
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Coding_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
 
-</div>
+[![HackerRank](https://img.shields.io/badge/HackerRank-Competitive_Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sujal-sudo-code/sujal-sudo-code/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+[![CodeChef](https://img.shields.io/badge/CodeChef-Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
 
 ---
 
-# Current Focus
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sujal-sudo-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sujal-sudo-code&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-sudo-code&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sujal-sudo-code&theme=tokyonight&no-frame=true&row=1&column=7)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=sujal-sudo-code&theme=tokyo-night&hide_border=true)
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/sujal-sudo-code/sujal-sudo-code/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# 🎯 Current Focus
 
 ```yaml
 Learning:
-  - System Design
-  - Advanced Spring Boot
-  - Cloud Architecture
+  - Spring Boot
   - Machine Learning
+  - Deep Learning
+  - System Design
+  - Hugging Face
 
 Building:
-  - Scalable Full Stack Applications
-  - AI-Powered Products
+  - Full Stack Applications
+  - AI-Powered Projects
   - Backend APIs
-  - Developer Tools
 
 Exploring:
-  - LLM Applications
-  - DevOps Automation
-  - Distributed Systems
-  - Open Source Ecosystems
+  - LLMs
+  - Generative AI
+  - Cloud Technologies
+  - Open Source
 
 Open_To:
   - Software Engineering Internships
-  - Backend Development Roles
+  - Backend Developer Roles
   - Full Stack Opportunities
   - AI/ML Projects
 ```
 
 ---
 
-# Connect
+# ✍️ Random Dev Quote
 
-<div align="center">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<a href="mailto:work.sujalrathore@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-work.sujalrathore%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
-</a>
+---
 
-<a href="https://www.linkedin.com/in/sujal-rathore">
-<img src="https://img.shields.io/badge/LinkedIn-Sujal_Rathore-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+# 🔝 Top Contributed Repositories
 
-<a href="https://github.com/sujal-sudo-code">
-<img src="https://img.shields.io/badge/GitHub-sujal--sudo--code-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://github.com/sujal-sudo-code">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Profile-7C3AED?style=for-the-badge" />
-</a>
-
-</div>
+![](https://github-contributor-stats.vercel.app/api?username=sujal-sudo-code&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
 <div align="center">
 
-### "Engineering scalable systems, building intelligent products, and creating impact through technology."
+![](https://visitcount.itsvg.in/api?id=sujal-sudo-code&icon=5&color=12)
+
+### "Building scalable software, exploring intelligent systems, and turning ideas into impactful products."
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7" />
